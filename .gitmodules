@@ -1,0 +1,6 @@
+[submodule "expressjs_one_client"]
+	path = expressjs_one_client
+	url = https://github.com/JupitorCentral/expressjs_one_client
+[submodule "expressjs_one_server"]
+	path = expressjs_one_server
+	url = https://github.com/JupitorCentral/expressjs_one_server
